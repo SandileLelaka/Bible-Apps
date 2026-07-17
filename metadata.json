@@ -1,0 +1,6 @@
+{
+  "name": "Bible Devotion",
+  "description": "Daily Bible stories, summaries, lessons, and personalized devotional journal reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
